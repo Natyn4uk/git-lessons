@@ -1,1 +1,1 @@
-The first file to work with Git
+My first file with changes in the second commit.
